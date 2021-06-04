@@ -30,7 +30,9 @@ Login with the existing credentials
 2. Choose the development method as : Custom development and choose availability zone as per your interest
 ## Step 2: Configuration wizard
 ![image](https://user-images.githubusercontent.com/20831296/120845834-f74d5380-c58e-11eb-9f6c-919c325c7380.png)
+
 3. Select the Country Code and Weather Service (Edition：Trial Version) APIs
+
  ![image](https://user-images.githubusercontent.com/20831296/120845596-accbd700-c58e-11eb-89df-68bd9157056e.png)
 4. Click on Authorize option
 5. Verify Configuration wizard is displayed
@@ -44,6 +46,7 @@ Login with the existing credentials
 1. On the Projects page, click the created project to enter the details page. Click the API tab, click Go to    Authorize and click Subscribe beside the unsubscribed API products in the drop-down list.
 2. Authorize the subscribed API products to the project.
    On the API page of the project, you can view the subscribed API products for the project. Also, you can click Go to Authorize to add API products.
+   
    ![image](https://user-images.githubusercontent.com/20831296/120845700-cb31d280-c58e-11eb-9ec6-73bd1b006173.png)
 
 3. Navigate to Projects
