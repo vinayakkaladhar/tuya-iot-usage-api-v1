@@ -75,4 +75,4 @@ Click Submit Request.
 Cloud Application IP Whitelist option can be used
 Then only selected IP's will have access to consume the API.
 
-#Import the Postman Collection and refer Video (file name: Usage.webm) for a working demo.
+# Import the Postman Collection and refer Video (file name: Usage.webm) for a working demo.
