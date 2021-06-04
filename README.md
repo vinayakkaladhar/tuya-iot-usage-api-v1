@@ -57,16 +57,15 @@ Select a project.
 Select an API product.
 Select an endpoint. For more information, see Endpoints.
 Select an API.
-### Note: Click the View Document tab to view the parameter description.
+# Note: Click the View Document tab to view the parameter description.
 Click the Debugging Results tab to view the request URL and response.
 Configure API parameters.
 Click Submit Request.
 
-### Note:
+### Security:
 
 1. Incase if IP restriction is needed:
 Cloud Application IP Whitelist option can be used
 Then only selected IP's will have access to consume the API.
 
 Have added the Postman Collection and Video for Reference.
-
