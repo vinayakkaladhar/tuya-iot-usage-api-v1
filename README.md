@@ -38,7 +38,7 @@ Login with the existing credentials
 7. Add devices.
    After you create an asset, you can add devices
 
-## Steps
+### Steps to extract API credentials
 1. On the Projects page, click the created project to enter the details page. Click the API tab, click Go to    Authorize and click Subscribe beside the unsubscribed API products in the drop-down list.
 2. Authorize the subscribed API products to the project.
    On the API page of the project, you can view the subscribed API products for the project. Also, you can click Go to Authorize to add API products.
@@ -57,7 +57,7 @@ Select a project.
 Select an API product.
 Select an endpoint. For more information, see Endpoints.
 Select an API.
-# Note: Click the View Document tab to view the parameter description.
+#### Note: Click the View Document tab to view the parameter description.
 Click the Debugging Results tab to view the request URL and response.
 Configure API parameters.
 Click Submit Request.
