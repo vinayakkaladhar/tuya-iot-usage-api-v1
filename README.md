@@ -15,12 +15,12 @@ Select the option: Cloud Development
 ### Prerequisites
 
 Case 1: If you are a first time user:
-Click on : Sign Up
+Click on : Sign Up,
 Enter Email address and password of your choice
 Navigate to Email inbox and verify your account
 
 Case 2: If you have an existing account:
-Click on : Login
+Click on : Login,
 Login with the existing credentials
 
 
@@ -38,7 +38,7 @@ Login with the existing credentials
 7. Add devices.
    After you create an asset, you can add devices
 
-### Steps to extract API credentials
+### Steps to extract API credentials:
 1. On the Projects page, click the created project to enter the details page. Click the API tab, click Go to    Authorize and click Subscribe beside the unsubscribed API products in the drop-down list.
 2. Authorize the subscribed API products to the project.
    On the API page of the project, you can view the subscribed API products for the project. Also, you can click Go to Authorize to add API products.
