@@ -1,7 +1,7 @@
 # Project Title
 
-Tuya's IOT Challenge
-Tuya offers a platform for Cloud Development that enables to Build IoT industry solutions with the Tuya OpenAPI and hardware product ecosystem.
+This project is developed using Tuya cloud development project. For more information, please check Tuya Developer Click and Connect.      
+Challenge: https://pages.tuya.com/develop/ClickAndConnect_TuyaDeveloper?_source=e9684c7ca6b31e7221c8420f5af94631 
 
 # Objective
 
