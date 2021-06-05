@@ -76,3 +76,9 @@ Cloud Application IP Whitelist option can be used
 Then only selected IP's will have access to consume the API.
 
 # Import the Postman Collection and refer Video (file name: Usage.webm) for a working demo.
+
+# Resources needed: Postman(latest version), collection can be downloaded from the repo.
+
+# Supporting documents link: https://developer.tuya.com/en/docs/iot/call-api?id=Ka7o7ru1julms
+
+
